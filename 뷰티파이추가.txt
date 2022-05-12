@@ -1,0 +1,28 @@
+앱바, 메인을 이용 
+로그인 버튼으로 로그인창 v-if (login true)
+
+아이디, 패스워드 입력창 
+
+글목록은 동적, 중첩 라우터사용 (params 값)
+
+누구누구님 정보
+로그인 할때 넘겨준 정보를 화면에 출력 (주소창 url도 넘겨준 정보값으로 /"")
+
+로그아웃 클릭시 .push로 메인 창으로 이동 
+
+
+<router 안에 vuetify 설치>
+
+vue create 폴더 만든후
+vue add vuetify 해서 뷰티파이를 추가 
+- Configure (advanced)
+-n
+-n
+-n
+-Material Design Icons
+-n
+-y
+-English
+
+
+
